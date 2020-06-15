@@ -1,0 +1,14 @@
+    ***************************************************************
+    **                                                           **
+    **             01_dt_Spotify_Understanding_OAuth             **
+    **                                                           **
+    ***************************************************************
+- 01_dt_Spotify_Understanding_OAuth
+	- TITULO: Understanding OAuth with the Spotify API - #12 React JS prototyping
+	- REFERENCIAS
+		- https://www.youtube.com/watch?v=f5OLDvwP-Ug
+		- https://github.com/mpj/oauth-bridge-template
+		
+	- PASOS
+
+		- 
