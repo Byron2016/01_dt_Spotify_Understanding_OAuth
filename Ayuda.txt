@@ -8,7 +8,13 @@
 	- REFERENCIAS
 		- https://www.youtube.com/watch?v=f5OLDvwP-Ug
 		- https://github.com/mpj/oauth-bridge-template
+		- https://developer.spotify.com/dashboard/applications
+		- https://developer.spotify.com/documentation/
 		
 	- PASOS
 
-		- 
+		- export SPOTIFY_CLIENT_ID=
+		- export SPOTIFY_CLIENT_SECRET=
+		- npm start
+		
+		echo SPOTIFY_CLIENT_ID
